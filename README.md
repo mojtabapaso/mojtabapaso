@@ -8,10 +8,10 @@
 <div>
     <div class="row">
         <a href='mailto:mojtabapaso@gmail.com'>
-            <img alt="Discord" src="https://img.shields.io/badge/GMAIL-ab373c.svg?style=for-the-badge&logo=gmail&logoColor=orange">
-        </a>
+            <img alt="Gmail" height="40" src="https://github.com/mojtabapaso/Personality/blob/main/official-gmail-icon-2020-.svg">
+        </a>       
         <a href='https://telegram.me/MojtabaPaso'>
-            <img alt="Discord" src="https://img.shields.io/badge/TELEGRAM-dcf3dc.svg?style=for-the-badge&logo=telegram&logoColor=orange">
+            <img alt="Telegram" height="40" src="https://github.com/mojtabapaso/Personality/blob/main/telegram-1.svg">
         </a>
 
   
