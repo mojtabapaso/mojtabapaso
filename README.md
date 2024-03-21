@@ -1,11 +1,7 @@
 <p>
 
 # About Me:
-### Hello, welcome to my profile! I'm a Python developer, specifically interested in programming with Django and Django Rest Framework and FastAPI.
-
-
-
-
+### Hello, welcome to my profile! I'm a BackEnd Developer;
 </p>
 
 <h3>find me here</h3>
