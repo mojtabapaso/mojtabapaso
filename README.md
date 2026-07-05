@@ -105,22 +105,5 @@ My primary interests include designing distributed systems, building high-perfor
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
 
----
-
-# 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mojtabapaso\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabapaso\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mojtabapaso\&theme=tokyonight)
-
----
-
-# 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mojtabapaso\&theme=tokyo-night)](https://github.com/mojtabapaso)
-
----
 
 ### Thanks for visiting my profile ❤️
