@@ -1,41 +1,126 @@
-<p>
+# Hi 👋 I'm Mojtaba Ataei
 
-# About Me:
-### Hello, welcome to my profile! I'm a BackEnd Developer;
+### Backend Developer | .NET 
+
+I'm a Backend Developer passionate about building scalable, secure, and maintainable software using the .NET ecosystem.
+
+My primary interests include designing distributed systems, building high-performance APIs, applying Domain-Driven Design (DDD), and developing clean, testable architectures. I enjoy solving complex backend challenges while focusing on performance, security, and software quality.
+
+---
+# 📫 Connect with Me
+
+<p align="center">
+
+<a href="mailto:mojtabapaso@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/MojtabaPaso">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
 </p>
 
-<h3>find me here</h3>
-<div>
-    <div class="row">
-        <a href='mailto:mojtabapaso@gmail.com'>
-            <img alt="Gmail" height="40" src="https://github.com/mojtabapaso/Personality/blob/main/official-gmail-icon-2020-.svg">
-        </a>       
-        <a href='https://telegram.me/MojtabaPaso'>
-            <img alt="Telegram" height="40" src="https://github.com/mojtabapaso/Personality/blob/main/telegram-1.svg">
-        </a> 
-</div>
-<hr>
+---
 
+# 💻 Languages
 
-|Skills|Experiences|
-|---|---|
-|1. Languages|<code><img alt = "c#" height="20" src="https://github.com/mojtabapaso/Personality/blob/main/c-sharp-c.svg"> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">CSharp</a></code> <code><img alt = "Python" height="20" src="https://github.com/mojtabapaso/Personality/blob/main/Python.svg"> <a href="https://www.python.org/">Python</a></code> <code><img alt = "Java Script" height="20" src="https://github.com/mojtabapaso/Personality/blob/main/javascript-js.svg"> <a href="https://github.com/jogilsang/devops/tree/master/4.linux/shell">Java Script</a></code> |
-|2. Framework & Platform| <code><img alt = ".Net" height="20" src="https://github.com/mojtabapaso/Personality/blob/main/dotnet-svgrepo-com.svg"> <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">.Net</a></code>  |
-|3. Devops|<code><img alt = "Docker" height="20" src="https://github.com/mojtabapaso/Personality/blob/main/yast-docker.svg"> <a href="https://www.docker.com/">Docker</a></code> <code><img alt = "GIT" height="20" src="https://github.com/mojtabapaso/Personality/blob/main/git-gui.svg"> <a href="https://git-scm.com/">GIT</a></code> <code><img alt = "Ubuntu" height="20" src="https://github.com/mojtabapaso/Personality/blob/main/ubuntu-4.svg"> <a href="">Ubuntu</a></code> |
-|4. DataBase|<code><img alt = "SQL Server" height="20" src="https://github.com/mojtabapaso/Personality/blob/main/icons8-microsoft-sql-server.svg"> <a href="">SQL Server</a></code> <code><img alt = "PostgreSQL" height="20" src="https://github.com/mojtabapaso/Personality/blob/main/postgresql.svg"> <a href="https://www.postgresql.org/">PostgreSQL</a></code> <code><img alt = "4.3 MongoDB" height="20" src="https://github.com/mojtabapaso/Personality/blob/main/mongodb-icon-1.svg"> <a href="https://github.com/jogilsang/manual-db/tree/master/6.mongoDB">MongoDB</a></code> |
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
+---
 
+# ⚙️ Frameworks
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-5C2D91?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
+---
 
+# 🏛️ Architecture
 
+![Microservices](https://img.shields.io/badge/Microservices-0EA5E9?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-22C55E?style=for-the-badge)
+![Onion Architecture](https://img.shields.io/badge/Onion_Architecture-7C3AED?style=for-the-badge)
 
+---
 
+# 🧩 Design & Principles
 
+![DDD](https://img.shields.io/badge/DDD-2563EB?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-0F766E?style=for-the-badge)
+![MediatR](https://img.shields.io/badge/MediatR-8B5CF6?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-F97316?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-2563EB?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-EC4899?style=for-the-badge)
 
+---
 
+# 🌐 API
 
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge\&logo=grpc\&logoColor=white)
 
+---
 
+# 🗄️ Databases & Cache
 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
+---
+
+# 📨 Messaging & Authentication
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+
+---
+
+# 🔒 Security
+
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
+
+---
+
+# ✅ Testing
+
+![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge)
+
+---
+
+# 🛠️ Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+
+---
+
+# 🐧 Operating System
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+
+---
+
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mojtabapaso\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabapaso\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mojtabapaso\&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mojtabapaso\&theme=tokyo-night)](https://github.com/mojtabapaso)
+
+---
+
+### Thanks for visiting my profile ❤️
